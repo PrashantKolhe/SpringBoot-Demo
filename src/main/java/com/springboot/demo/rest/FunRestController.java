@@ -1,4 +1,4 @@
-package com.luv2code.springboot.demo.mycoolapp.rest;
+package com.springboot.demo.rest;
 
 import java.time.LocalDateTime;
 
